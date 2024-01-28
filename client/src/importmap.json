@@ -1,0 +1,29 @@
+{
+  "imports": {
+    "react": "https://cdn.jsdelivr.net/npm/react@18/umd/react.production.min.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.production.min.js",
+    
+    "x react-router":     "https://cdn.jsdelivr.net/gh/remix-run/react-router@6.4/dist/umd/react-router.production.min.js",
+    "x_react-router-dom": "https://cdn.jsdelivr.net/gh/remix-run/react-router-dom@6.4/dist/umd/react-router-dom.production.min.js",
+    
+    "react-router":       "https://cdn.jsdelivr.net/npm/react-router@6/dist/umd/react-router.production.min.js",
+    "react-router-dom":   "https://cdn.jsdelivr.net/npm/react-router-dom@6/dist/umd/react-router-dom.production.min.js",
+    "@remix-run/router":  "https://cdn.jsdelivr.net/npm/@remix-run/router@1/dist/router.umd.min.js",
+
+    "deve react-router":       "https://cdn.jsdelivr.net/npm/react-router@6/dist/umd/react-router.development.js",
+    "deve react-router-dom":   "https://cdn.jsdelivr.net/npm/react-router-dom@6/dist/umd/react-router-dom.development.js",
+
+    "axios-util": "https://cdn.jsdelivr.net/gh/sicinfo/axiosjs-util@0.1.1/index.js",
+    "react-util": "https://github.com/",
+
+    "app-header-component": "./components/app/header-component.js",
+    "app-router-component": "./components/app/router-component.js",
+    "app-footer-component": "./components/app/footer-component.js",
+
+    "approuter-component": "./components/home-component.js",
+    "home-component": "./components/home-component.js",
+
+    "index": "./components/index-component.js",
+    "favicon": "./favicon.js"
+  }
+}

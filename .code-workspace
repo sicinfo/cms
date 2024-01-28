@@ -1,0 +1,99 @@
+{
+	"folders": [
+		{
+			"name": "node_apps",
+			"path": "../../node_apps"
+		},
+		{
+			"name": "cms",
+			"path": "."
+		},
+		{
+			"name": "config - etc",
+			"path": "../config/etc"
+		},
+		{
+			"name": "axios-utils",
+			"path": "../axios-utils"
+		},
+		{
+			"name": "react-utils",
+			"path": "../react-utils"
+		},
+		{
+			"name": "middleware",
+			"path": "../middleware"
+		},
+		{
+			"name": "msrac",
+			"path": "../msrac"
+		},
+		{
+			"name": "dist",
+			"path": "../dist"
+		},
+		{
+			"name": "anajuliarm",
+			"path": "../anajuliarm"
+		},
+		{
+			"name": "nginx",
+			"path": "../../../etc/nginx"
+		},
+		{
+			"name": "conf.d",
+			"path": "../../../etc/nginx/conf.d"
+		},
+		{
+			"name": "router",
+			"path": "../router"
+		},
+		{
+			"name": "server - dist",
+			"path": "server/dist"
+		},
+		{
+			"name": "client - src",
+			"path": "client/src"
+		},
+		{
+			"name": "client - dist",
+			"path": "client/dist"
+		},
+		{
+			"name": "components",
+			"path": "client/src/components"
+		},
+		{
+			"name": "server - src",
+			"path": "server/src"
+		},
+		{
+			"name": "services",
+			"path": "server/src/services"
+		},
+		{
+			"name": "etc",
+			"path": "../../etc"
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true,
+		"editor.detectIndentation": true,
+		"files.exclude": {
+			"**/node_modules": true,
+			"*.code-workspace": true,
+			"**/*ignore": true,
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"public": true
+		},
+		"editor.renderWhitespace": "all",
+		"editor.fontSize": 16
+	}
+}

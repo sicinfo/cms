@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "System",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "checkJs": true,
+    "baseUrl": "."
+  },
+  "exclude": ["**/*copy.js"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sicinfo-cms",
+  "version": "0.1.0",
+  "description": "Sistema de gestão de conteúdo",
+  "main": "server/dist/index.js",
+  "scripts": {
+    "test": "mocha test/test.spec.js",
+    "build": "rollup --config rollup.config.js"
+  },
+  "author": "moreira 2023-08-22",
+  "license": "ISC",
+  "devDependencies": {
+    "sicinfo-cms": "file:"
+  }
+}
